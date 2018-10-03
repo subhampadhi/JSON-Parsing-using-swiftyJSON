@@ -1,0 +1,6 @@
+framework module Pods_JSON_Parsing_using_swiftyJSON {
+  umbrella header "Pods-JSON Parsing using swiftyJSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
