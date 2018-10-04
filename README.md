@@ -43,10 +43,10 @@ Step 7 - Then install the pod
   pod install
 ```
 
-** PS ** pod install may take some time so hang on .   
+**PS** pod install may take some time so hang on .   
 
 ## **<a name="allow_http"></a>Allow http URLS** 
-Step 1 - Right click on info.plist file and select open As -> Source Code  .   
+Step 1 - Right click on info.plist file and select **open As -> Source Code**  .   
 Step 2 - Copy and Paste the following code .
 
 ``` XML
